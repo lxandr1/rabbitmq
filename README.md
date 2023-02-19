@@ -1,1 +1,2 @@
-# rabbitmq-dev
+# RabbitMQ
+Learn using rabbitmq
